@@ -1,0 +1,5 @@
+66,20,Sunny
+50,30,Sunny
+60,14,Overcast
+70,50,Very Sunny
+80,60,Solar Storm
